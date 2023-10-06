@@ -12,6 +12,14 @@ format:
 
 ## Introduction
 
+I selected this project primarily because it was one of the few remaining that are available. The rating of faces as typical or attractive is potentially problematic, but nonetheless the topic is still somewhat interesting to me. I am in the GSE and am interested in topics related to social-emotional learning, prevention science, and sustainability, but it did not appear that any such rescue projects were still available. If this motivation is not sufficient for selecting this project, I am happy to change to another (such as one of the Dweck studies on growth/fixed mindset).
+
+The stimuli essentially concern showing participants 11 different faces that vary on a range from very typical to very attractive typicality to attractive.  Unless I can find the pictures of these faces on the website, I will need to somehow create these faces or find another sample of faces varying along such a spectrum somewhere else on the internet. The process that the authors used was by using an online process and tool called digital averaging process (tool's name is PsychoMorph Version 5), which I would need to learn to use. They used this to create a "composite" face from an ethnically diverse group of faces. 
+
+The rest of the procedure is relatively simple. Study participants then view the 11 faces three times and rate the faces on a scale of 1 (definitely not) to 9 (definitely) either by their trustworthiness or attractiveness, which was based on random assignment. I don't envision too much difficulty from this part of the project. They authors then took the average of the three judgments of each face for each participant. I would also need to learn how to perform multiple regression analysis and by-participant repeated measures analysis (ANOVAs) in R in order to calculate the results.
+
+
+
 [No abstract is needed.]  Each replication project will have a straightforward, no frills report of the study and results.  These reports will be publicly available as supplementary material for the aggregate report(s) of the project as a whole.  Also, to maximize project integrity, the intro and methods will be written and critiqued in advance of data collection.  Introductions can be just 1-2 paragraphs clarifying the main idea of the original study, the target finding for replication, and any other essential information.  It will NOT have a literature review -- that is in the original publication. You can write both the introduction and the methods in past tense.  
 
 
