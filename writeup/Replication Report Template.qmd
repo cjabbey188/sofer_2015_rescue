@@ -19,7 +19,8 @@ The stimuli essentially concern showing participants 11 different faces that var
 The rest of the procedure is relatively simple. Study participants then view the 11 faces three times and rate the faces on a scale of 1 (definitely not) to 9 (definitely) either by their trustworthiness or attractiveness, which was based on random assignment. I don't envision too much difficulty from this part of the project. They authors then took the average of the three judgments of each face for each participant. I would also need to learn how to perform multiple regression analysis and by-participant repeated measures analysis (ANOVAs) in R in order to calculate the results.
 
 Link to repo: https://github.com/cjabbey188/sofer_2015_rescue.git 
-Link to paper: original_paper/sofer-et-al-2014-what-is-typical-is-good-the-influence-of-face-typicality-on-perceived-trustworthiness.pdf
+
+Link to paper PDF: https://github.com/cjabbey188/sofer_2015_rescue/blob/main/original_paper/sofer-et-al-2014-what-is-typical-is-good-the-influence-of-face-typicality-on-perceived-trustworthiness.pdf
 
 [No abstract is needed.]  Each replication project will have a straightforward, no frills report of the study and results.  These reports will be publicly available as supplementary material for the aggregate report(s) of the project as a whole.  Also, to maximize project integrity, the intro and methods will be written and critiqued in advance of data collection.  Introductions can be just 1-2 paragraphs clarifying the main idea of the original study, the target finding for replication, and any other essential information.  It will NOT have a literature review -- that is in the original publication. You can write both the introduction and the methods in past tense.  
 
